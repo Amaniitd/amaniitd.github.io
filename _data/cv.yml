@@ -1,0 +1,17 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Aman Kumar
+    - name: Date of Birth
+      value: 4th January, 2002
+    - name: Languages
+      value: English, Hindi, Magahi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: B.Tech. in Computer Science and Engineering
+      institution: Indian Institute of Technology Delhi
+      year: 2019-2023
+      description:
