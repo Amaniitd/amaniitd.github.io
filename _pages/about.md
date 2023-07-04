@@ -7,7 +7,7 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: false
-  address: |
+  address: 
     <p>4th Year CSE Undergrad</p> <p>IIT Delhi</p>
 news: true
 selected_papers: false
